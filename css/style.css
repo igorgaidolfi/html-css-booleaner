@@ -30,6 +30,7 @@
 }
 #titoletto{
     margin-bottom: 15px;
+    color: grey;
 }
 .paragrafo{
     margin-top: 10px;
@@ -52,4 +53,28 @@
 }
 .riga-colorata{
     background-color: rgba(32,169,229,0.5);
+}
+.titoletti-colorati{
+    color: grey;
+}
+#sfondo-desk{
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 5px 0px 100px 5px;
+    color: white;
+    font-weight: bold;
+    margin: 5px 0px 5px 0px;
+}
+#sfondo-graph{
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 5px 0px 100px 5px;
+    color: white;
+    font-weight: bold;
+    margin: 5px 0px 25px 0px;
+}
+footer{
+    margin-left: 5px;
 }
