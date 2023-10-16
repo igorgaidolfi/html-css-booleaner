@@ -42,3 +42,14 @@
 .evidenziato{
     background-color: yellow;
 }
+#head-tab{
+    background-color: #20a9e5;
+    color: white;
+    text-align: left;
+}
+.cell-tab{
+    width: 25%;
+}
+.riga-colorata{
+    background-color: rgba(32,169,229,0.5);
+}
