@@ -31,3 +31,14 @@
 #titoletto{
     margin-bottom: 15px;
 }
+.paragrafo{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#lista{
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+.evidenziato{
+    background-color: yellow;
+}
