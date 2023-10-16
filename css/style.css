@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.titolo{
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    background-position: top;
+    
+}
+#logo{
+    height: 100px;
+    padding: 40px 0px 10px 15px
+}
